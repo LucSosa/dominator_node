@@ -1,0 +1,11 @@
+{
+  "name": "dominator_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LucSosa/dominator_node.git",
+  "author": "LucSosa <l.sosamachado@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
